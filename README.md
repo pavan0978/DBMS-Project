@@ -18,7 +18,7 @@ This project focuses on building and optimizing a MySQL-powered database to enha
 - **Data Optimization:** SQL Query Optimization  
 
 ## 📄 Project Files  
-- 📂 DBMS Project Report (PDF)   
+- 📂 [DBMS Project Report (PDF)](https://github.com/pavan0978/DBMS-Project/blob/main/DBMS%20Project%20Report.pdf)
 
 ## 🚀 Getting Started  
 To run the database system: 
